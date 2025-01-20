@@ -1,4 +1,4 @@
-# ONSCREEN-DICTIONARY
+# ONSCREEN-DICTIONARY(for windows)
 This python overlay helps the user to search any word's meaning as soon as the word is copied!
 The urge for having an on-screen dictionary which could help me find meaning for those words seemed alien to me!Thats when i came up with this idea. This is just the first step,
 here i have used a free api from which the meaning of words are accessed.As this is the initial stages the code yields only a overlay using Tkinter library.
